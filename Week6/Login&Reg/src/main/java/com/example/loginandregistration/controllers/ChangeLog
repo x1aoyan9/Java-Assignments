@@ -1,0 +1,11 @@
+2022-08-14  Sarah  <Sarah@Nitro-SLH>
+
+	* UserController.java (register):
+	changed line 55 newUser > newU
+	changed line 57 newLogin > loginU
+	changed line 94 newLogin > loginU
+	changed line 96 newUser > newU
+	
+	[changed 99&100 to be uniform with 60&61]
+	changed line 99 User user > User u
+	changed line 100 user.getId() > u.getId()
